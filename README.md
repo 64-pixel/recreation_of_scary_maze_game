@@ -1,2 +1,2 @@
 # recreation_of_scary_maze_game
-This is a recreation of scary maze game
+This is a recreation of scary maze game, i tried to recreate the classis scary maze game, which was polular back then. It kinda works, when you touch the walls on the hard or medium difficulty you get jumpscared, on the baby difficulty there are no jumpscares.  and when you touch the win square you win. However when the enemy touches you for some reason the jumpscare only happens for .5 seconds and then the game crashes dont know why, also the movement when you touch the corner of the walls, the cube can get stuck, so you have to violently wiggle your mouse to free your cube. Also the text on the right is placed wrongly.
